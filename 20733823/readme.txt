@@ -15,6 +15,6 @@ _test.csv : Testing data provided at the beginning.
 
 The method I used to predict the speed is XGBoost. 
 
-You can run the 5001individual.ipny file to get the result. 
+You can run the 5001indivi.ipny file to get the result. 
 
 The file named 20733823.csv in the output folder is the result of my prediction. 
